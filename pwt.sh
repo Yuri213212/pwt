@@ -1,0 +1,1 @@
+i686-pc-mingw32-gcc -Wall -O3 -s -o pwt.exe pwt.c -mwindows -lgdi32
